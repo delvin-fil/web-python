@@ -1,0 +1,5 @@
+<link rel="stylesheet" type="text/css" href="my.css" />
+
+<div  id="content-head">
+Lighttp+PHP+Python&emsp;&emsp;&emsp;
+</div>

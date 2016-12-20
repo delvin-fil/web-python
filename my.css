@@ -1,0 +1,32 @@
+#content {
+    width: 80%; /* Ширина слоя */
+    left: 10%;
+    margin: 0 auto 0px; /* Выравнивание по центру */
+    background: #cccccc; /* Цвет фона */
+    font: 14pt DejaVU;
+    text-align: center;
+}
+#header {
+    /*width: 1000px; /* Ширина слоя */
+    position: fixed; /* Фиксированное положение */
+    margin: 0 auto 0px; /* Выравнивание по центру */
+    left: 10%; top: 0; /* Левый нижний угол */
+    padding: -0px; /* Поля вокруг текста */
+    background: #39b54a; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    width: 80%; /* Ширина слоя */
+    text-align: center;
+    font: 18pt Monospace; 
+}
+#header-py {
+    position: fixed; /* Фиксированное положение */
+    left: 10%; top: 0; /* Левый нижний угол */
+    padding: 4px; /* Поля вокруг текста */
+    margin: 0 auto 0px; /* Выравнивание по центру */
+    background: #39b54a; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    width: 100%; /* Ширина слоя */
+    text-align: center;
+    font: 30pt a_GildiaLeanedBack; 
+    width: 80%;
+}
